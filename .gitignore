@@ -1,1 +1,6 @@
 settings.py
+dump.rdb
+**/__pycache__/
+**/migrations/**
+!**/migrations/__init__.py
+media/
